@@ -43,6 +43,8 @@
 
 [Practice Assessment](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-900/practice/assessment?assessment-type=practice&assessmentId=26)
 
+[Microsoft Training and Certification](https://aka.ms/traincertposter)
+
 
 ## Labs
 
