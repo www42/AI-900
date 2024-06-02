@@ -11,7 +11,7 @@
 
 Learning Path 1️⃣ [AI Overview][LP1]
 
-Learning Path 2️⃣ [Computer Vision][LP2]
+Learning Path 2️ [Computer Vision][LP2]
 
 Learning Path 3️⃣ [Natural Language Processing][LP3]
 
