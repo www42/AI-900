@@ -52,12 +52,17 @@ Optional: [AI-900 Lab instructions on GitHub](https://microsoftlearning.github.i
 
 ## New: Microsoft Applied Skills
 
+[Microsoft Applied Skills Anouncement](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/announcing-microsoft-applied-skills-the-new-credentials-to/ba-p/3775645)
+
+[Browse all Applied Sills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
 <br>
 
 
 ## Useful Links
 
+
+<br>
 
 
 ##  Your Trainer
