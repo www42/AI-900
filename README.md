@@ -9,17 +9,16 @@
 
 ## Agenda
 
-Learning Path 1️⃣ [AI Overview][LP1]
+Learning Path 1️: [AI Overview][LP1]
 
-Learning Path 2️ [Computer Vision][LP2]
+Learning Path 2️: [Computer Vision][LP2]
 
-Learning Path 3️⃣ [Natural Language Processing][LP3]
+Learning Path 3️: [Natural Language Processing][LP3]
 
-Learning Path 4️⃣ [Document Intelligence and Knowledge Mining][LP4]
+Learning Path 4️: [Document Intelligence and Knowledge Mining][LP4]
 
-Learning Path 5️⃣ [Generative AI][LP5]
+Learning Path 5️: [Generative AI][LP5]
 
-<br>
 <br>
 
 ## Lab environment Skillable
@@ -31,7 +30,6 @@ No account yet? ➡️ [Register with Training Key](https://brainymotion.learnon
 Optional: [AI-900 Lab instructions on GitHub](https://microsoftlearning.github.io/mslearn-ai-fundamentals/)
 
 <br>
-<br>
 
 
 ## Microsoft Learn
@@ -40,7 +38,6 @@ Optional: [AI-900 Lab instructions on GitHub](https://microsoftlearning.github.i
 
 [Become Microsoft Certified aka Train Cert Poster](https://aka.ms/traincertposter)
 
-<br>
 <br>
 
 
@@ -51,12 +48,12 @@ Optional: [AI-900 Lab instructions on GitHub](https://microsoftlearning.github.i
 [Practice Assessment](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-900/practice/assessment?assessment-type=practice&assessmentId=26)
 
 <br>
-<br>
 
 
 ## New: Microsoft Applied Skills
 
 
+<br>
 
 
 ## Useful Links
