@@ -23,11 +23,11 @@
 
 ## Lab environment Skillable
 
-Do you have a Skillable account? Sign in and [redeem your training key](https://brainymotion.learnondemand.net/TrainingKey/Redeem).
+Do you have a Skillable account? ➡️ Sign in and [redeem your training key](https://brainymotion.learnondemand.net/TrainingKey/Redeem).
 
-No account yet? [Register with Training Key](https://brainymotion.learnondemand.net).
+No account yet? ➡️ [Register with Training Key](https://brainymotion.learnondemand.net).
 
-[AI-900 Lab instructions on GitHub](https://microsoftlearning.github.io/mslearn-ai-fundamentals/)
+Optional: [AI-900 Lab instructions on GitHub](https://microsoftlearning.github.io/mslearn-ai-fundamentals/)
 
 
 
