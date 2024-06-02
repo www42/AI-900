@@ -19,7 +19,8 @@
 
 [Learning Path 5: Generative AI][LP5]
 
-
+<br>
+<br>
 
 ## Lab environment Skillable
 
@@ -29,6 +30,8 @@ No account yet? ➡️ [Register with Training Key](https://brainymotion.learnon
 
 Optional: [AI-900 Lab instructions on GitHub](https://microsoftlearning.github.io/mslearn-ai-fundamentals/)
 
+<br>
+<br>
 
 
 ## Microsoft Learn
@@ -37,6 +40,8 @@ Optional: [AI-900 Lab instructions on GitHub](https://microsoftlearning.github.i
 
 [Become Microsoft Certified aka Train Cert Poster](https://aka.ms/traincertposter)
 
+<br>
+<br>
 
 
 ## AI-900 Exam
@@ -44,6 +49,9 @@ Optional: [AI-900 Lab instructions on GitHub](https://microsoftlearning.github.i
 [Exam AI-900](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-900/) (MS Learn)
 
 [Practice Assessment](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-900/practice/assessment?assessment-type=practice&assessmentId=26)
+
+<br>
+<br>
 
 
 ## New: Microsoft Applied Skills
