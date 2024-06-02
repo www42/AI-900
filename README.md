@@ -21,10 +21,21 @@
 
 
 
-    * Lab 01: [Explore Azure AI services (Content Safety)](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/01-module-01.html)
-    * Lab 02: [Explore Automated Machine Learning](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02-module-02.html) 
-    * Lab 03: [Explore Computer Vision](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/03-module-03.html)
-    * Lab 04: [Explore text analytics](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/04-module-04.html) 
+## Lab environment Skillable
+
+Do you have a Skillable account? Sign in and [redeem your training key](https://brainymotion.learnondemand.net/TrainingKey/Redeem).
+
+No account yet? [Register with Training Key](https://brainymotion.learnondemand.net).
+
+[AI-900 Lab instructions on GitHub](https://microsoftlearning.github.io/mslearn-ai-fundamentals/)
+
+
+
+## Microsoft Learn
+
+[Browse all courses, learning paths, and modules](https://learn.microsoft.com/en-us/training/browse/)
+
+[Become Microsoft Certified aka Train Cert Poster](https://aka.ms/traincertposter)
 
 
 
@@ -34,53 +45,13 @@
 
 [Practice Assessment](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-900/practice/assessment?assessment-type=practice&assessmentId=26)
 
-[Microsoft Training and Certification](https://aka.ms/traincertposter)
 
-
-## Labs
-
-[Skillable](https://brainymotion.learnondemand.net) --> Register with Training Key
-
-[MicrosoftLearning GitHub Repo AI-900](https://github.com/MicrosoftLearning/AI-900-AIFundamentals/) (GitHub)
-
-[Lab Instruction step by step AI-900](https://microsoftlearning.github.io/AI-900-AIFundamentals/) (GitHub Pages)
-
+## New: Microsoft Applied Skills
 
 
 
 
 ## Useful Links
-
-### 01 Artificial Intelligence
-
-[Content Safety - What's that?](https://azure.microsoft.com/en-us/products/ai-services/ai-content-safety/) (MS Learn)
-
-[Content Safety documentation](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/) (MS Learn)
-
-[Content Safety Studio](https://contentsafety.cognitive.azure.com/)
-
-[Content Safty API Tool](https://aka.ms/content-safety-api)
-
-
-
-### 02 Machine Learning
-
-[AI vs Machine Learning](https://www.youtube.com/watch?v=4RixMPF4xis) (YouTube)
-
-[Azure Machine Learning documentation](https://learn.microsoft.com/en-us/azure/machine-learning/?view=azureml-api-2) (MS Learn)
-
-
-
-### 03 Computer Vision
-
-[Vision Studio](https://portal.vision.cognitive.azure.com/)
-
-
-### 04 Natural Language Processing
-
-[Language Studio](https://language.cognitive.azure.com/)
-
-[Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai/) (MS Learn)
 
 
 
