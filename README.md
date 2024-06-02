@@ -1,38 +1,29 @@
 # AI-900 Azure AI Fundamentals
 
-[LP]: https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/
+[LP1]: https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/
+[LP2]: https://learn.microsoft.com/en-us/training/paths/explore-computer-vision-microsoft-azure/
+[LP3]: https://learn.microsoft.com/en-us/training/paths/explore-natural-language-processing/
+[LP4]: https://learn.microsoft.com/en-us/training/paths/document-intelligence-knowledge-mining/
+[LP5]: https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/
 
-## Course Agenda
 
-1. **Explore Fundamentals of Artificial Intelligence**
+## Agenda
 
-    * Microsoft Learn: [Get started with AI on Azure](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/) from [LP][LP]
+[Learning Path 1: AI Overview][LP1]
+
+[Learning Path 2: Computer Vision][LP2]
+
+[Learning Path 3: Natural Language Processing][LP3]
+
+[Learning Path 4: Document Intelligence and Knowledge Mining][LP4]
+
+[Learning Path 5: Generative AI][LP5]
+
+
 
     * Lab 01: [Explore Azure AI services (Content Safety)](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/01-module-01.html)
-
-
-
-2. **Explore Fundamentals of Machine Learning**
-
-    * Microsoft Learn: [Fundamentals of machine learning](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/) from [LP][LP]
-
     * Lab 02: [Explore Automated Machine Learning](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02-module-02.html) 
-
-
-
-
-3. **Explore Fundamentals of Computer Vision**
-
-    * Microsoft Learn: [Explore computer vision](https://learn.microsoft.com/en-us/training/paths/explore-computer-vision-microsoft-azure/)
-
     * Lab 03: [Explore Computer Vision](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/03-module-03.html)
-
-
-
-4. **Explore Fundamentals of Natural Language Processing**
-
-    * Microsoft Learn: [Explore natural language processing](https://learn.microsoft.com/en-us/training/paths/explore-natural-language-processing/)
-
     * Lab 04: [Explore text analytics](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/04-module-04.html) 
 
 
