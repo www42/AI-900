@@ -9,15 +9,15 @@
 
 ## Agenda
 
-[Learning Path 1️⃣ AI Overview][LP1]
+Learning Path 1️⃣ [AI Overview][LP1]
 
-[Learning Path 2️⃣ Computer Vision][LP2]
+Learning Path 2️⃣ [Computer Vision][LP2]
 
-[Learning Path 3️⃣ Natural Language Processing][LP3]
+Learning Path 3️⃣ [Natural Language Processing][LP3]
 
-[Learning Path 4️⃣ Document Intelligence and Knowledge Mining][LP4]
+Learning Path 4️⃣ [Document Intelligence and Knowledge Mining][LP4]
 
-[Learning Path 5️⃣ Generative AI][LP5]
+Learning Path 5️⃣ [Generative AI][LP5]
 
 <br>
 <br>
