@@ -7,9 +7,9 @@
 [LP5]: https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/
 
 
-<!-- [Give feedback](https://www.metricsthatmatter.com/url/u.aspx?5138AC494210960968)
+[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?CCF9BAF42213908410)
 
-[Grab your badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=2DLY2Z) -->
+[Grab your badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=83NVY7)
 
 <br>
 
