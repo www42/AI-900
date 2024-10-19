@@ -14,8 +14,6 @@
 - Learning Path 4️: [Document Intelligence and Knowledge Mining][LP4]
 - Learning Path 5️: [Generative AI][LP5]
 
-<br>
-
 
 ## Labs
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
@@ -28,8 +26,6 @@
 [GitHub Repo Microsoft Learn](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals)
 
 [Lab Instructions step by step (HTML)](https://microsoftlearning.github.io/mslearn-ai-fundamentals/)
-
-<br>
 
 
 ## Certification
