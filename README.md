@@ -6,8 +6,6 @@
 
 # AI-900 Azure AI Fundamentals
 
-<br>
-
 ## Learning Paths
 
 - Learning Path 1️: [AI Overview][LP1]
