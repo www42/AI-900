@@ -1,55 +1,45 @@
-# AI-900 Azure AI Fundamentals
-
 [LP1]: https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/
 [LP2]: https://learn.microsoft.com/en-us/training/paths/explore-computer-vision-microsoft-azure/
 [LP3]: https://learn.microsoft.com/en-us/training/paths/explore-natural-language-processing/
 [LP4]: https://learn.microsoft.com/en-us/training/paths/document-intelligence-knowledge-mining/
 [LP5]: https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/
 
-
-[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?CCF9BAF42213908410)
-
-[Grab your badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=83NVY7)
+# AI-900 Azure AI Fundamentals
 
 <br>
 
-## Agenda
+## Learning Paths
 
-Learning Path 1️: [AI Overview][LP1]
-
-Learning Path 2️: [Computer Vision][LP2]
-
-Learning Path 3️: [Natural Language Processing][LP3]
-
-Learning Path 4️: [Document Intelligence and Knowledge Mining][LP4]
-
-Learning Path 5️: [Generative AI][LP5]
-
-<br>
-
-## Lab environment Skillable
-
-Do you have a Skillable account? ➡️ Sign in and [redeem your training key](https://brainymotion.learnondemand.net/TrainingKey/Redeem).
-
-No account yet? ➡️ [Register with Training Key](https://brainymotion.learnondemand.net).
-
-Optional: [AI-900 Lab instructions on GitHub](https://microsoftlearning.github.io/mslearn-ai-fundamentals/)
+- Learning Path 1️: [AI Overview][LP1]
+- Learning Path 2️: [Computer Vision][LP2]
+- Learning Path 3️: [Natural Language Processing][LP3]
+- Learning Path 4️: [Document Intelligence and Knowledge Mining][LP4]
+- Learning Path 5️: [Generative AI][LP5]
 
 <br>
 
 
-## Microsoft Learn
+## Labs
+[Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
-[Browse all courses, learning paths, and modules](https://learn.microsoft.com/en-us/training/browse/)
+1. Sign in with your Skillable account 
+2. Register with Training Key
 
-[Become Microsoft Certified aka Train Cert Poster](https://aka.ms/traincertposter)
+<!--[Go Deploy](https://lms.godeploy.it) -->
+
+[GitHub Repo Microsoft Learn](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals)
+
+[Lab Instructions step by step (HTML)](https://microsoftlearning.github.io/mslearn-ai-fundamentals/)
 
 <br>
 
 
-## AI-900 Exam
+## Certification
 
-[Exam AI-900](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-900/) (MS Learn)
+|   |   |
+| - | - |
+|<img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-fundamentals-badge.svg" width="100"/>|[Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)|
+
 
 [Practice Assessment](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-900/practice/assessment?assessment-type=practice&assessmentId=26)
 
@@ -58,29 +48,43 @@ Optional: [AI-900 Lab instructions on GitHub](https://microsoftlearning.github.i
 
 ## New: Microsoft Applied Skills
 
-[Microsoft Applied Skills Anouncement](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/announcing-microsoft-applied-skills-the-new-credentials-to/ba-p/3775645)
+[Applied Skills - What's that?](https://learn.microsoft.com/en-us/credentials/)
 
-[Browse all Applied Sills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
+[Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
 <br>
 
 
 ## Useful Links
 
+[Become Microsoft Certified](https://aka.ms/traincertposter) aka Train Cert Poster
+
+[Microsoft Learn](https://learn.microsoft.com)
+
+[Browse all courses, learning paths, and modules](https://learn.microsoft.com/en-us/training/browse/)
+
+[Microsoft Ignite November 19 - 21 2024](https://ignite.microsoft.com/en-US/home)
+
+
+
 
 <br>
-
 
 ##  Your Trainer
 #### Thomas Jäkel
 
-<img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="200"/>
-<a href="https://www.credly.com/badges/c1fe9e82-60d2-4268-8204-3709479a2bf9/public_url"><img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-trainer-2023-2024.png" width="130"/></a>
-<a href="https://www.credly.com/badges/fc4737d8-923a-4d37-8f1a-497c08a7c1ff/public_url"><img src="https://download69118.blob.core.windows.net/anon/AAI-badge.png" width="150"/></a>
+<img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="150"/>
+<img src="https://download69118.blob.core.windows.net/anon/Standard MCT Badge Large.png" width=100>
+<a href="https://www.credly.com/badges/72439d56-7895-4b92-84bd-fec12c84fd18/public_url"><img src="https://download69118.blob.core.windows.net/anon/mcse-cloud-platform-and-infrastructure-certified-2016.png" width="100"/></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/A8E4CC3EAA93F4C2?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-azure-solutions-architect-expert.png" width=100>
+<a href="https://https://www.credly.com/badges/8ef5f8fb-6b84-4223-add8-4938096c67b2"><img src="https://download69118.blob.core.windows.net/anon/aws-certified-solutions-architect-associate.png" width=100>
+<a href="https://www.credly.com/badges/7f2c6c3e-d3e3-4e32-9299-adf3278948a3/public_url"><img src="https://download69118.blob.core.windows.net/anon/instructor-recognition-1-000-students-reached.png" width="100"/></a>
 
-[My certifications](https://www.credly.com/users/thomas-jakel)
+[My Microsoft certifications](https://learn.microsoft.com/en-us/users/tjaekel/transcript/d4yjrcx32nome0r)
 
-[Email me](mailto:thomas.jaekel@brainymotion.de?subject=AI-900)
+[My Non Microsoft certifications](https://www.credly.com/users/thomas-jakel)
+
+[Email me](mailto:thomas.jaekel@brainymotion.de?subject=AZ-500)
 
 [Check out my GitHub repos](https://github.com/www42)
 
@@ -88,7 +92,6 @@ Optional: [AI-900 Lab instructions on GitHub](https://microsoftlearning.github.i
 
 [Follow me on Twitter](https://twitter.com/tjkkll)
 
-[My Blog](https://blog.az.training)
 
 ---
 
