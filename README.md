@@ -27,6 +27,7 @@
 
 [Lab Instructions step by step (HTML)](https://microsoftlearning.github.io/mslearn-ai-fundamentals/)
 
+<br>
 
 ## Certification
 
