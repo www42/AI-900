@@ -51,7 +51,7 @@
 <br>
 
 
-## Useful Links
+## Microsoft Learn
 
 [Become Microsoft Certified](https://aka.ms/traincertposter) aka Train Cert Poster
 
@@ -59,8 +59,17 @@
 
 [Browse all courses, learning paths, and modules](https://learn.microsoft.com/en-us/training/browse/)
 
-[Microsoft Ignite November 19 - 21 2024](https://ignite.microsoft.com/en-US/home)
+[Microsoft Ignite November 19 - 21, 2024](https://ignite.microsoft.com/en-US/home)
 
+[AI Skills Challenge (ends November 1, 2024)](https://learn.microsoft.com/en-us/training/topics/event-challenges?tabs=azure-ai)
+
+<br>
+
+
+
+## Useful Links
+
+[Azure AI Content Safety documentation](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/)
 
 
 
