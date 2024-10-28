@@ -8,6 +8,8 @@
 
 ## Seminar 28. Oktober 2024
 
+[Get the presentation](pdf/)
+
 [Give feedback](https://www.metricsthatmatter.com/url/u.aspx?C855E0A6B215520122)
 
 [Grab your badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=K52L23)
