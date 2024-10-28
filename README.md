@@ -6,6 +6,15 @@
 
 # AI-900 Azure AI Fundamentals
 
+## Seminar 28. Oktober 2024
+
+[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?C855E0A6B215520122)
+
+[Grab your badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=K52L23)
+
+<br>
+
+
 ## Learning Paths
 
 - Learning Path 1️: [AI Overview][LP1]
@@ -78,6 +87,8 @@
 
 [Meta AI](https://ai.meta.com/) Leider noch nicht in Deutschland verfügbar - aber jeder kann es haben: [Llama 3](https://ai.meta.com/blog/meta-llama-3/) ist Open Source!
 
+<br>
+
 
 
 ## Sprachmodelle
@@ -92,6 +103,7 @@
 
 [Rise of A.I. Large Language Models](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/) Information is beautiful
 
+<br>
 
 
 
@@ -107,6 +119,7 @@
 
 [The moment we stopped understanding AI](https://www.youtube.com/watch?v=UZDiGooFs54) Video by Stephen Welch.
 
+<br>
 
 
 
