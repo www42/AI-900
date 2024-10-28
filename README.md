@@ -66,13 +66,61 @@
 <br>
 
 
+## Chatbots
+
+[ChatGPT](https://chatgpt.com/) von OpenAI. Das Original.
+
+[Gemini](https://gemini.google.com/) Das Imperium (Google) schlägt zurück.
+
+[Claude](https://claude.ai/) Der Shooting Star unter den Sprachmodellen.
+
+[Copilot](https://copilot.microsoft.com/) Microsoft ist auch mit dabei.
+
+[Meta AI](https://ai.meta.com/) Leider noch nicht in Deutschland verfügbar - aber jeder kann es haben: [Llama 3](https://ai.meta.com/blog/meta-llama-3/) ist Open Source!
+
+
+
+## Sprachmodelle
+
+[Hugging Face](https://huggingface.co/) Hier findest Du alles.
+
+[EleutherAI](https://www.eleuther.ai/) Open Source Sprachmodelle.
+
+[Ollama](https://ollama.com/) Für zu Hause.
+
+[LMSYS Chatbot Arena](https://chat.lmsys.org/?leaderboard) Hier kannst Du mit den Modellen bewerten.
+
+[Rise of A.I. Large Language Models](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/) Information is beautiful
+
+
+
+
+## Neuronale Netzwerke
+
+[3Blue1Brown](https://www.3blue1brown.com/topics/neural-networks) Videos by Grant Sanderson. Großartige Visualisierung von Neuronalen Netzen, und überhaupt ein großartiger YouTube Channel.
+
+[MIT Introduction to Deep Learning](http://introtodeeplearning.com/) Ganze Vorlesungsreihe des MIT zu Deep Learning.
+
+[Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) by Google authors. Das Original Paper für die Transformer Architektur.
+
+[What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) Book by Stephen Wolfram. Spannend, auch ohne Mathematica Kentnisse.
+
+[The moment we stopped understanding AI](https://www.youtube.com/watch?v=UZDiGooFs54) Video by Stephen Welch. Das muß ich mir noch einmal anschauen.
+
+
+
 
 ## Useful Links
+
+[Get skilled up and ready on Microsoft AI ](https://learn.microsoft.com/en-us/ai/) Microsoft Learn AI Hub
 
 [Azure Machine Learning documentation](https://learn.microsoft.com/en-us/azure/machine-learning/?view=azureml-api-2)
 
 [Azure AI Content Safety documentation](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/)
 
+[Azure OpenAI Service documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
+
+[Azure Cognitive Search documentation](https://learn.microsoft.com/en-us/azure/search/)
 
 
 <br>
