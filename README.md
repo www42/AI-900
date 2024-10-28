@@ -160,7 +160,7 @@
 
 [Find me on LinkedIn](https://linkedin.com/in/tjkkll)
 
-[Follow me on Twitter](https://twitter.com/tjkkll)
+[Follow me on Twitter (X)](https://twitter.com/tjkkll)
 
 
 ---
