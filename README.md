@@ -133,9 +133,12 @@
 
 [Azure AI Content Safety documentation](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/)
 
-[Azure OpenAI Service documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
+[Azure AI Vision documentation](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/)
 
 [Azure Cognitive Search documentation](https://learn.microsoft.com/en-us/azure/search/)
+
+[Azure OpenAI Service documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
+
 
 
 <br>
